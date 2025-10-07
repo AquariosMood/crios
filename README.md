@@ -25,32 +25,6 @@
 ![Makefile](https://img.shields.io/badge/Makefile-003366?logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 🏆 42 Common Core Projects
-
-### 🔧 System & Algorithms
-| Project | Skills |
-|---------|--------|
-| **Libft** | C, Makefile, Standard Library |
-| **ft_printf** | C, Variadics, Parsing |
-| **get_next_line** | C, File I/O, Memory Management |
-| **Born2beroot** | System Admin, Security, SSH |
-| **push_swap** | C, Algorithms, Optimization |
-| **pipex** | C, Processes, Pipes, Redirections |
-| **minishell** | C, System Programming, Parsing |
-| **Philosophers** | C, Multithreading, Synchronization |
-| **IRC** | C++, Network Programming, Protocols |
-
-### 🎨 Graphics
-| Project | Skills |
-|---------|--------|
-| **so_long** | C, MiniLibX, 2D Game |
-| **miniRT** | C, MiniLibX, Raytracing, 3D |
-
-### 🌐 Web
-| Project | Skills |
-|---------|--------|
-| **Transcendence** | Full Stack, Web Development |
-
 ## 🎯 Current Focus
 
 **Transcendence** - Full stack web application
