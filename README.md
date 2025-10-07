@@ -61,13 +61,8 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-c.rios@student.42.fr-D14836)](mailto:c.rios@student.42.fr)
-[![42 Intra](https://img.shields.io/badge/42_Intra-crios-000000)](https://profile.intra.42.fr/users/crios)
+[![Email](https://img.shields.io/badge/Email-c.rios@student.42.fr-D14836)](mailto:crios@student.42.fr)
 
 ---
-
-<div align="center">
-  
-  **⭐ From low-level to high-level | Du bas niveau au haut niveau | 从底层到高层 ⭐**
 
 </div>
