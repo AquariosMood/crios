@@ -25,10 +25,6 @@
 ![Makefile](https://img.shields.io/badge/Makefile-003366?logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=corentin-rios&show_icons=true&theme=radical)
-
 ## 🏆 42 Common Core Projects
 
 ### 🔧 System & Algorithms
@@ -61,7 +57,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-c.rios@student.42.fr-D14836)](mailto:crios@student.42.fr)
+[![Email](https://img.shields.io/badge/Email-crios@student.42.fr-D14836)](mailto:crios@student.42.fr)
 
 ---
 
